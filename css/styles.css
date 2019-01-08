@@ -1,3 +1,27 @@
 body {
   background-image: url("../img/guat.png");
+  text-align: center;
+  font-size: 40px;
+  font-weight:bolder;
+  font-family: fantasy;
+}
+
+ul{
+  font-weight:bold;
+  font-family:cursive;
+  color:#bb22ff;
+  text-shadow: 3px 3px 3px #00ff33;
+}
+p{
+  color:#00dd33;
+  text-shadow:5px 5px 5px #bb22ff;
+}
+
+
+h1 {
+  font-family:fantasy;
+}
+
+h2{
+  font-family: fantasy;
 }
